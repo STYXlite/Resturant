@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+}
+
+.styx {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: brown;
+    width: fit-contents;
+    text-align: center;
+}
+
+.regStyle {
+    color: darkblue;
+    font-weight: bold;
+    text-align: left;
+}
+
+.logStyle {
+    color: red;
+    font-weight: bold;
+    text-align: left;
+}
+
+img {
+    padding: 3px;
+    margin: 5px;
+    width: 100px;
+}
+
+.BackAttribute {
+    text-align: left;
+    font-weight: bold;
+}
+
+.table {
+    width: 200px;
+}
